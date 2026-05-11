@@ -7,7 +7,7 @@ How to Run the Game:
 
 1. Download all files from the repository.
 
-2. After downloading extract file.
+2. After downloading extract the file.
 
 3. Double click:
    FILTRIS_FINAL.exe
