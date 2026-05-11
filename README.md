@@ -35,5 +35,3 @@ Controls:
 
 Important:
 Do not separate the files from the folder or the image/sound may not work properly.
-
-Thank you for playing FILTRIS!
